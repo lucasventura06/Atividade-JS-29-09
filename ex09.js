@@ -1,0 +1,3 @@
+function verificarMeta(nota, frequencia) {
+    
+}
